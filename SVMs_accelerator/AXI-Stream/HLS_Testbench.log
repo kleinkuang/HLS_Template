@@ -1,0 +1,25 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../svm_acc_tb_v3.cpp in debug mode
+   Compiling ../../../svm_acc_v3.cpp in debug mode
+   Compiling ../../../dot_product_v3.cpp in debug mode
+   Compiling ../../../cordic_tanh_v3.cpp in debug mode
+   Generating csim.exe
+
+
+----------------------------------------------------------------
+
+
+
+Classification Error Rate: 0.085000
+
+Confusion Matrix:
+Golden  Res     
+1826    98      
+72      4       
+
+
+----------------------------------------------------------------
+
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
